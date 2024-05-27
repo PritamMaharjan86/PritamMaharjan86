@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://pritam.pages.dev/](https://pritam.pages.dev/)
 
+- 💻 This is my secondary portfolio website [https://portfolio-react-sepia-chi.vercel.app/](https://portfolio-react-sepia-chi.vercel.app/)
+
 - 📫 How to reach me **primgdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
