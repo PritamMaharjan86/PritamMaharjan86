@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Web developer</h3>
 
 
-
 - 🔭 I’m currently working on [React App](https://github.com/PritamMaharjan86/Recipe-app)
 
 - 🌱 I’m currently learning **React**
