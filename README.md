@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-
 - 🔭 I’m currently working on [React App](https://github.com/PritamMaharjan86/Recipe-app)
 
 - 🌱 I’m currently learning **React**
@@ -23,5 +22,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=pritammaharjan86&theme=dark&card_width=1000)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritammaharjan86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 [![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&theme=github-compact)](https://github.com/pritammaharjan86/github-readme-activity-graph)
-
 [![](https://visitcount.itsvg.in/api?id=pritammaharjan86&icon=0&color=0)](https://visitcount.itsvg.in)
