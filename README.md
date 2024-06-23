@@ -23,3 +23,27 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritammaharjan86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 [![Tanmay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&theme=github-compact)](https://github.com/pritammaharjan86/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=pritammaharjan86&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
+
+Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
