@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">A passionate Web developer</h3>
 
 - 🔭 I’m currently working on [React App](https://github.com/PritamMaharjan86/Recipe-app)
 
