@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
-- 🔭 I’m currently working on [React App](https://github.com/PritamMaharjan86/Recipe-app)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://pritam.pages.dev/](https://pritam.pages.dev/)
-
-- 💻 This is my secondary portfolio website [https://portfolio-react-sepia-chi.vercel.app/](https://portfolio-react-sepia-chi.vercel.app/)
-
 - 📫 How to reach me **primgdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
