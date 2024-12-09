@@ -11,4 +11,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&locale=en" alt="pritammaharjan86" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&" alt="pritammaharjan86" /></p>
