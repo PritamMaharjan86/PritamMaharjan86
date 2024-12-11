@@ -4,4 +4,4 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pritammaharjan.vercel.app/](https://portfolio-pritammaharjan.vercel.app/)
 
-- 📫 How to reach me **primgdev@gmail.com**
+- 📫 How to reach me primgdev@gmail.com
