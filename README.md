@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PritamMaharjan86/count.svg?"  />
+  <img 
+    src="https://profile-counter.glitch.me/PritamMaharjan86/count.svg?color=FFFFFF&background=0000FF" 
+    alt="Profile Counter" 
+  />
 </div>
 
+- 🌱 I’m currently learning **Full-Stack Development**.
 
-- 🌱 I’m currently learning **FullStack Development**
+- 👨‍💻 You can explore all of my projects at [My Portfolio](https://portfolio-pritammaharjan.vercel.app/).
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pritammaharjan.vercel.app/](https://portfolio-pritammaharjan.vercel.app/)
-
-- 📫 How to reach me primgdev@gmail.com
-
+- 📫 Feel free to reach out to me at **primgdev@gmail.com**.
