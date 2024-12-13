@@ -6,6 +6,8 @@
 
 - 📫 How to reach me primgdev@gmail.com
 
-<img src="https://raw.githubusercontent.com/PritamMaharjan86/PritamMaharjan86/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PritamMaharjan86/count.svg?"  />
+</div>
 
 ###
