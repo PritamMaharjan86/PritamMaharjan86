@@ -14,4 +14,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&" alt="pritammaharjan86" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&" alt="pritammaharjan86" /></p>
