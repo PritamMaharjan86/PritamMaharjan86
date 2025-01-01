@@ -2,8 +2,6 @@
 <p align="center">
 - 🌱 I’m currently learning FullStack Development</p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://portfolio-pritammaharjan.vercel.app/](https://portfolio-pritammaharjan.vercel.app/)</p>
-
 <p align="center">- 📫 How to reach me **primgdev@gmail.com**</p>
  
 
