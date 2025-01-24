@@ -18,5 +18,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritammaharjan86&show_icons=true&locale=en&layout=compact" alt="pritammaharjan86" /></p>
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&locale=en" alt="pritammaharjan86" /></p>
-
-<p  align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&" alt="pritammaharjan86" /></p>
