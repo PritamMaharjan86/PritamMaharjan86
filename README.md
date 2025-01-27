@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+</div>
+
 - 🌱 I’m currently learning **FullStack Development**
 
 - 👨‍💻 All of my projects are available at [https://pritammaharjan.vercel.app/](https://pritammaharjan.vercel.app/)
 
 - 📫 How to reach me **primgdev@gmail.com**
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: #e6f7ff; padding: 10px; border-radius: 5px;">
   <a href="https://codepen.io/https://codepen.io/pritammaharjan86" target="blank">
@@ -28,8 +33,5 @@
 </p>
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
-</div>
 
-###
+
