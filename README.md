@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
-</div>
 
 - 🌱 I’m currently learning **FullStack Development**
 
@@ -23,6 +20,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
 </p>
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+</div>
+
 
 <p align="center" style="background-color: #333; padding: 15px; border-radius: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritammaharjan86&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
