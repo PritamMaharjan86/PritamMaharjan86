@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
 <p align="center">
-  🌱 I’m currently learning <strong>FullStack Development</strong>
+  🚀 Passionate about <strong>FullStack Development</strong> | 🌎 Open Source Enthusiast
+</p>
+
+<p align="center">
+  🌱 Currently exploring <strong>TypeScript, Next.js, and MongoDB</strong>
 </p>
 
 <p align="center">
@@ -10,6 +14,14 @@
 
 <p align="center">
   📫 Reach me at <strong>primgdev@gmail.com</strong>
+</p>
+
+---
+
+<h3 align="center">🛠 Tech Stack:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -25,6 +37,9 @@
   </a>
   <a href="https://stackoverflow.com/users/22500338/pritammaharjan86" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/pritammaharjan86" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
 
@@ -44,4 +59,37 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+</p>
+
+---
+
+<h3 align="center">🏆 Achievements:</h3>
+
+- ✅ Built multiple **full-stack projects**  
+- 🔥 Active contributor on **GitHub** & **open-source projects**  
+- 🎯 Focused on **scalability & performance optimization**  
+
+---
+
+<h3 align="center">📅 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="center">📌 Latest Blog Posts:</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- 📖 [Understanding JavaScript Closures](https://dev.to/pritammaharjan/understanding-javascript-closures-4g5l)
+- 🚀 [Mastering React Hooks](https://dev.to/pritammaharjan/mastering-react-hooks-3j2b)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h3 align="center">💡 Fun Fact:</h3>
+
+<p align="center">
+  🔥 I love solving **coding challenges** and contributing to **open source projects**.
 </p>
