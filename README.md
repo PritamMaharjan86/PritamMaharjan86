@@ -79,11 +79,3 @@
 
 ---
 
-<h3 align="center">📌 Latest Blog Posts:</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- 📖 [Understanding JavaScript Closures](https://dev.to/pritammaharjan/understanding-javascript-closures-4g5l)
-- 🚀 [Mastering React Hooks](https://dev.to/pritammaharjan/mastering-react-hooks-3j2b)
-<!-- BLOG-POST-LIST:END -->
-
-
