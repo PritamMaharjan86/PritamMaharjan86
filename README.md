@@ -86,10 +86,4 @@
 - 🚀 [Mastering React Hooks](https://dev.to/pritammaharjan/mastering-react-hooks-3j2b)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<h3 align="center">💡 Fun Fact:</h3>
-
-<p align="center">
-  🔥 I love solving **coding challenges** and contributing to **open source projects**.
-</p>
