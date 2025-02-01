@@ -61,16 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
 </p>
 
----
-
-<h3 align="center">🏆 Achievements:</h3>
-
-- ✅ Built multiple **full-stack projects**  
-- 🔥 Active contributor on **GitHub** & **open-source projects**  
-- 🎯 Focused on **scalability & performance optimization**  
-
----
-
 <h3 align="center">📅 GitHub Streak</h3>
 
 <p align="center">
@@ -78,4 +68,10 @@
 </p>
 
 ---
+
+<h3 align="center">🏆 Achievements:</h3>
+
+- ✅ Built multiple **full-stack projects**  
+- 🔥 Active contributor on **GitHub** & **open-source projects**  
+- 🎯 Focused on **scalability & performance optimization**  
 
