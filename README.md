@@ -68,10 +68,3 @@
 </p>
 
 ---
-
-<h3 align="center">🏆 Achievements:</h3>
-
-- ✅ Built multiple **full-stack projects**  
-- 🔥 Active contributor on **GitHub** & **open-source projects**  
-- 🎯 Focused on **scalability & performance optimization**  
-
