@@ -16,6 +16,7 @@
   📫 Reach me at <strong>primgdev@gmail.com</strong>
 </p>
 
+---
 
 <h3 align="center">🌐 Connect with me:</h3>
 
