@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently exploring <strong>TypeScript, Next.js, React, and MongoDB</strong>
+  🌱 Currently exploring <strong>TypeScript, Next.js, React, SQL and MongoDB</strong>
 </p>
 
 <p align="center">
