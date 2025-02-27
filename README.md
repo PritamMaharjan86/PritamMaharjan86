@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan.vercel.app</a>
+  👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan_portfolio</a>
 </p>
 
 <p align="center">
