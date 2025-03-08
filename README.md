@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi, I'm Pritam</h1>
 
----
 <p align="center">
   🚀 Passionate about <strong>FullStack Development</strong>
 </p>
