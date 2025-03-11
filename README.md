@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently exploring <strong> React, Tailwind CSS, SQL, and MongoDB</strong>
+  🌱 Currently exploring <strong>Javascript, C#, React, Tailwind CSS, SQL, and MongoDB</strong>
 </p>
 
 <p align="center">
