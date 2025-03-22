@@ -2,8 +2,6 @@
   <img src="https://res.cloudinary.com/dedpvue13/image/upload/c_thumb,w_200,g_face/v1726537260/Ellipse_1_jivxjp.png" alt="Centered Image">
 </p>
 
-
-
 <h1 align="center">Hi, I'm Pritam</h1>
 
 <p align="center">
@@ -21,8 +19,6 @@
 <p align="center">
   📫 Reach me at <strong>primgdev@gmail.com</strong>
 </p>
-
----
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
