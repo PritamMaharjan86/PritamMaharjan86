@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["https://res.cloudinary.com/dedpvue13/image/upload/c_thumb,w_200,g_face/v1726537260/Ellipse_1_jivxjp.png](https://res.cloudinary.com/dedpvue13/image/upload/v1726537260/extras/Ellipse_1_jivxjp.png)" alt="Centered Image">
+  <img src="https://res.cloudinary.com/dedpvue13/image/upload/v1726537260/extras/Ellipse_1_jivxjp.png" alt="Centered Image">
 </p>
 
 <h1 align="center">Hi, I'm Pritam</h1>
@@ -11,7 +11,6 @@
 <p align="center">
   🌱 Currently exploring <strong>Javascript, C#, React, Tailwind CSS, Vercel, SQL, and MongoDB</strong>
 </p>
-
 <p align="center">
   👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan_portfolio</a>
 </p>
