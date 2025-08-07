@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dedpvue13/image/upload/v1726537260/extras/Ellipse_1_jivxjp.png" alt="Centered Image">
-</p>
-
 <h1 align="center">Hi, I'm Pritam</h1>
 
 <div align="center">
