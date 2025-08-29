@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  🌱 Currently exploring <strong>Javascript, HTML, CSS, C#, React, REST API, Tailwind CSS, MySQL, MUI and MongoDB</strong>
+  🌱 Currently exploring <strong>Javascript, HTML, CSS, C#, React, REST API, Tailwind CSS, MySQL, MUI, Node.js and MongoDB</strong>
 </p>
-<p align="center">
+<p align="center"> 
   👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan_portfolio</a>
 </p>
 
