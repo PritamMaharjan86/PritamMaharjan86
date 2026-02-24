@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently exploring <strong>Javascript, React, REST API, Tailwind CSS, MySQL, MUI, Vercel Postman, Node.js, Express.js, Cloudinary and MongoDB</strong>
+  🌱 Currently exploring <strong>MERN STACK</strong>
 </p>
 <p align="center"> 
   👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan_portfolio</a>
