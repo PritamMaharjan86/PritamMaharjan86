@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently exploring <strong>MERN STACK</strong>
+  🌱 Currently exploring <strong>MERN</strong> stack
 </p>
 <p align="center"> 
   👨‍💻 Check out my projects at <a href="https://pritammaharjan.vercel.app/" target="_blank">pritammaharjan_portfolio</a>
