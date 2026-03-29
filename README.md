@@ -12,7 +12,7 @@
   🌱 Currently exploring <strong>MERN</strong> stack
 </p>
 <p align="center"> 
-  👨‍💻 Check working on <a href="https://smart-tokari.vercel.app/login" target="_blank">Smart Tokari app</a>
+  👨‍💻 Currently working on <a href="https://smart-tokari.vercel.app/login" target="_blank">Smart Tokari app</a>
 </p>
 
 <p align="center">
