@@ -26,13 +26,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritammaharjan86&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-
 
 <h3 align="center">📅 GitHub Streak</h3>
 
