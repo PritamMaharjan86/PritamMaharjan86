@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Pritam</h1>
+<h1 align="left">Hi, I'm Pritam</h1>
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 </div>
 
-<p align="center">
+<p align="left">
   🚀 Passionate about <strong>FullStack Development</strong>
 </p>
 
-<p align="center">
+<p align="left">
   🌱 Currently exploring <strong>MERN</strong> stack
 </p>
-<p align="center"> 
+<p align="left"> 
   👨‍💻 Learning to build <a href="https://smarttokari.vercel.app/" target="_blank">Smart Tokari </a> app.
 </p>
 
-<p align="center">
+<p align="left">
   📫 Reach me at <strong>primgdev@gmail.com</strong>
 </p>
 
 
-<h3 align="center">🛠 Tech Stack:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
