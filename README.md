@@ -1,36 +1,61 @@
-<h1 align="center">Hi, I'm Pritam</h1>
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
-</div>
+<h1 align="center">Hi 👋, I'm Pritam</h1>
 
-<p align="center">
-  🚀 Passionate about <strong>FullStack Development</strong>
-</p>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  🌱 Currently exploring <strong>MERN</strong> stack
-</p>
-<p align="center"> 
-  👨‍💻 Learning to build <a href="https://smarttokari.vercel.app/" target="_blank">Smart Tokari </a> app.
-</p>
-
-<p align="center">
-  📫 Reach me at <strong>primgdev@gmail.com</strong>
-</p>
-
-
-<h3 align="center">🛠 Tech Stack:</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-
-<h3 align="center">📅 GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=dark" alt="GitHub Streak"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="280"/>
 </p>
 
 ---
+
+### About Me
+
+- 🌱 Learning MERN Stack
+- 💻 Building Full Stack Applications
+- 🚀 Passionate about Web Development
+- 🎯 Goal: Become a better developer every day
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img 
+    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="mailto:primgdev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/pritammaharjan86">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Building • Learning • Growing
+</p>
