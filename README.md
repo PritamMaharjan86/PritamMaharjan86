@@ -29,32 +29,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img 
-    height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true"
-  />
+  <img height="160" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Connect With Me
-
-<p align="left">
-  <a href="mailto:primgdev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://github.com/pritammaharjan86">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
 
 <p align="center">
   Building • Learning • Growing
