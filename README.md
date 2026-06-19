@@ -11,11 +11,12 @@
 
 ### About Me
 
+<p align="center">
 - 🌱 Learning MERN Stack
 - 💻 Building Full Stack Applications
 - 🚀 Passionate about Web Development
 - 🎯 Goal: Become a better developer every day
-
+</p>
 ---
 
 ### Tech Stack
