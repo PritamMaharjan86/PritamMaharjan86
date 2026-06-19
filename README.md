@@ -11,7 +11,7 @@
 
 ### About Me
 
-<p align="center">
+<p align="center" >
 - 🌱 Learning MERN Stack
 - 💻 Building Full Stack Applications
 - 🚀 Passionate about Web Development
