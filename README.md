@@ -11,12 +11,13 @@
 
 ### About Me
 
-<p align="center" >
-- 🌱 Learning MERN Stack
-- 💻 Building Full Stack Applications
-- 🚀 Passionate about Web Development
+<p align="center">
+- 🌱 Learning MERN Stack <br/>
+- 💻 Building Full Stack Applications <br/>
+- 🚀 Passionate about Web Development <br/>
 - 🎯 Goal: Become a better developer every day
 </p>
+
 ---
 
 ### Tech Stack
@@ -30,13 +31,28 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true" />
+  <img 
+    height="160" 
+    style="margin-right:10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+
+  <img 
+    height="160" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="800"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
 
-
 <p align="center">
-  Building • Learning • Growing
+  Building • Learning • Growing 🚀
 </p>
+```
