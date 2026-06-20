@@ -45,6 +45,7 @@
 
 <p align="center">
   <img 
+      style="margin-right:10px;" 
     width="800"
     src="https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&theme=tokyo-night&hide_border=true"
   />
