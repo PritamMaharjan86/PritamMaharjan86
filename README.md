@@ -34,7 +34,7 @@
   <img 
     height="160" 
     style="margin-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=merko&hide_border=true" 
   />
 </p>
 
@@ -42,7 +42,7 @@
   <img 
      height="160" 
     style="margin-right:10px;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=merko&hide_border=true" 
   />
 </p>
 
@@ -50,7 +50,7 @@
   <img 
       style="margin-right:10px;" 
     width="800"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pritammaharjan86&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true"
   />
 </p>
 
