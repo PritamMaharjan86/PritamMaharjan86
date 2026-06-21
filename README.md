@@ -36,9 +36,12 @@
     style="margin-right:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=pritammaharjan86&show_icons=true&theme=tokyonight&hide_border=true" 
   />
+</p>
 
+<p align="center">
   <img 
-    height="160" 
+     height="160" 
+    style="margin-right:10px;" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=pritammaharjan86&theme=tokyonight&hide_border=true" 
   />
 </p>
@@ -56,4 +59,4 @@
 <p align="center">
   Building • Learning • Growing 🚀
 </p>
-```
+
