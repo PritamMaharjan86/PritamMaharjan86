@@ -7,7 +7,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyenJveXE4ZHczZTlvMnI4ZDBrdDZ4ajF3YWc1eHc1dG03dGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="280"/>
 </p>
 
----
 ### About Me
 
 <p align="center">
@@ -17,14 +16,14 @@
 - 🎯 Goal: Become a better developer every day
 </p>
 
----
+
 ### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
----
+
 ### GitHub Stats
 
 <p align="center">
