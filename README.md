@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
 
-- 🔭 I’m currently working on https://wwww.smarttokari.vercel.app
+- 🔭 I’m currently working on https://www.smarttokari.vercel.app
 
 - 🌱 I’m currently learning **FullStack Development**
 
