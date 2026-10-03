@@ -6,10 +6,6 @@ I'm a **Full-Stack Developer in the making** who enjoys turning ideas into worki
 
 I started with the basics, got curious about how everything connects, and ended up building APIs, dashboards, CRUD applications, databases, authentication systems, and whatever else looked interesting.
 
-I don't just want to *use* technology.
-
-> **I want to understand how it works.**
-
 ---
 
 ## 🧠 What I'm Currently Doing
@@ -105,35 +101,3 @@ DevOps
 
 ---
 
-# 🌐 Find Me
-
-<p>
-  <a href="https://github.com/pritammaharjan86">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://pritammaharjan.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⚡ One More Thing
-
-I believe good developers aren't the people who know everything.
-
-They're the people who are **comfortable not knowing something — and curious enough to figure it out.**
-
-```bash
-$ whoami
-pritam
-
-$ cat /etc/motivation
-keep_building
-keep_learning
-keep_shipping
-```
-
----
-
-⭐ **If something here helps you, feel free to explore the repositories.**
