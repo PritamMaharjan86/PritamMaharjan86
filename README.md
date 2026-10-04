@@ -43,18 +43,6 @@ I started with the basics, got curious about how everything connects, and ended 
 
 ---
 
-# 🚀 Things I've Built
-
-### 📝 Todo Tracker
-
-A full-stack task management application built while learning how frontend, backend and databases communicate.
-
-**Stack:** React · Node.js · Express · MySQL · REST API
-
-**Learning:** CRUD operations · API design · database relationships · deployment · authentication concepts
-
----
-
 # 🧩 Currently Exploring
 
 ```text
