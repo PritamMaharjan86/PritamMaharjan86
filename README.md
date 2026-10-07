@@ -32,7 +32,7 @@ I started with the basics, got curious about how everything connects, and ended 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
 ### Tools & Infrastructure
