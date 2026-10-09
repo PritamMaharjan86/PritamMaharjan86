@@ -43,35 +43,6 @@ I started with the basics, got curious about how everything connects, and ended 
 
 ---
 
-# 🧩 Currently Exploring
-
-```text
-React
-  └── State management
-  └── Component architecture
-  └── Performance
-
-Node.js / Express
-  └── REST APIs
-  └── Authentication
-  └── Security
-  └── Rate limiting
-
-MySQL
-  └── Database design
-  └── Queries
-  └── Relationships
-  └── Performance
-
-DevOps
-  └── Linux
-  └── Nginx
-  └── Deployment
-  └── Self-hosting
-```
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
