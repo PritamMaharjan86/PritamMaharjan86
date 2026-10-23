@@ -2,8 +2,6 @@
 
 I'm a **Full-Stack Developer in the making** who enjoys turning ideas into working software.
 
-I started with the basics, got curious about how everything connects, and ended up building APIs, dashboards, CRUD applications, databases, authentication systems, and whatever else looked interesting.
-
 ---
 
 ## 🧠 What I'm Currently Doing
