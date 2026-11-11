@@ -11,25 +11,6 @@ I'm a developer who enjoys learning new technologies, building practical applica
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pritammaharjan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://codepen.io/pritammaharjan86">
-    <img src="https://img.shields.io/badge/CodePen-Profile-black?style=for-the-badge&logo=codepen" alt="CodePen"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22500338/pritammaharjan86">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"/>
-  </a>
-  <a href="mailto:primgdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
