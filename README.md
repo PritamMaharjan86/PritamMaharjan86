@@ -36,12 +36,6 @@ const pritam = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamMaharjan86&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages"/>
 </p>
 
-### / find-me
-
-[Portfolio](https://pritammaharjan.vercel.app/) · [GitHub](https://github.com/PritamMaharjan86) · [Email](mailto:primgdev@gmail.com)
-
----
-
 <p align="center">
   <samp>Still learning. Always building.</samp>
 </p>
